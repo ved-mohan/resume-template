@@ -1,15 +1,32 @@
 # Associations
 # comment out the urls if you do not wish to display them
 
-- organization: PETA
-  role: Volunteer
-  year: 2001 &mdash; 2010
-  url: https://www.peta.org/
-  summary: Organized fund drives and participated in fundraising events for the benefit of PETA's local Springfield operations.
+- organization: The Hong Kong University of Science and Technology
+  role: Engineering Student Ambassador
+  year: Sep, 2019 &mdash; May, 2018
+  # url: https://www.peta.org/
+  summary: Represent the HKUST School of Engineering at events such as Info Day and other recruitment events<ul class="resume-item-list"><li>Mentor students who are considering pursuing engineering</li></ul>
 
+- organization: American Institute of Chemical Engineers, HKUST Chapter
+  role: Team Captain, Chem-E-Car
+  year: Jun, 2019 &mdash; Nov, 2019
+  # url: http://campuspress.yale.edu/amnesty/
+  summary: Created a miniature car that can travel up to 30 meters with weights using a chemical battery and a specialised braking mechanism<ul class="resume-item-list"><li>Lead the university team for the international AIChE Annual Chem-E-Car Competition 2019 in Orlando, Florida</li></ul>
 
-- organization: Yale Amnesty International
-  role: Communications coordinator
-  year: 2002 &mdash; 2004
-  url: http://campuspress.yale.edu/amnesty/
-  summary: During my junion and senior years at Yale, I was actively involved in Yale Amnesty International where I helped facilitate our student organization communications through website maintenance, writing for our campus publication, and graphic design of related materials.
+- organization: American Institute of Chemical Engineers, HKUST Chapter
+  role: Chapter Vice President
+  year: Sep, 2018 &mdash; Sep, 2020
+  # url: http://campuspress.yale.edu/amnesty/
+  summary: Organize events for Chemical Engineering students to give insight about the field and for professional development<ul class="resume-item-list"><li>Manage the executive committee and handle marketing and communication</li></ul>
+
+- organization: The Hong Kong University of Science and Technology
+  role: Deputy Head Student Ambassador
+  year: Jan, 2018 &mdash; Present
+  # url: http://campuspress.yale.edu/amnesty/
+  summary: Represent HKUST in college fairs, high schools, and undergraduate recruitment<ul class="resume-item-list"><li>Mentor current and new Student Ambassadors</li></ul>
+
+- organization: HKUST Sustainable Campus Leadership Program
+  role: Project Leader
+  year: Aug, 2017 &mdash; May, 2018
+  # url: http://campuspress.yale.edu/amnesty/
+  summary: Designed a prototype of an aquaponics plant<ul class="resume-item-list"><li>Pitched our project to HKUST professors and potential sponsors</li></ul>
