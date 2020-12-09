@@ -22,8 +22,8 @@
 - organization: The Hong Kong University of Science and Technology
   role: Deputy Head Student Ambassador
   year: Jan, 2018 &mdash; Present
-  url: https://join.ust.hk/meet-our-students
-  summary: Represent HKUST in college fairs, high schools, and undergraduate recruitment<ul class="resume-item-list"><li>Mentor current and new Student Ambassadors</li></ul>
+  # url: https://join.ust.hk/meet-our-students
+  summary: Represent HKUST in college fairs, high schools, and undergraduate recruitment<ul class="resume-item-list"><li>Mentor current and new Student Ambassadors</li></ul><li><a href="https://join.ust.hk/meet-our-students">
 
 # - organization: HKUST Sustainable Campus Leadership Program
 #   role: Project Leader
