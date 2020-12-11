@@ -1,6 +1,11 @@
 # Jobs
 # HKUST UROP
 - company: The Hong Kong University of Science and Technology
+  position: Teaching Assistant
+  duration:   Sep, 2020  &mdash; Dec, 2020
+  summary: For CENG1600: Biotechnology and its Business Opportunities<ul class="resume-item-list"><li>Held office hours to help students with course assessments, with a focus on explaining biological concepts</li></ul>
+
+- company: The Hong Kong University of Science and Technology
   position: Research Assitant
   duration: Jun, 2020 &mdash; Present
   summary: Used shotgun proteomics technique to study the differentially expressed proteins in persister and resuscitated E. coli cells<ul class="resume-item-list"><li>Analyzed the data using advanced bioinformatic tools</li><li><a href="https://ishitak.com/documents/Research_Report_2020.pdf">Wrote a research paper identifying possible metabolic pathways required for persister resuscitation</a></li></ul>
